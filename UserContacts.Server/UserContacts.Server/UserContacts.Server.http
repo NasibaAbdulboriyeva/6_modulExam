@@ -1,0 +1,6 @@
+@UserContacts.Server_HostAddress = http://localhost:5166
+
+GET {{UserContacts.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
